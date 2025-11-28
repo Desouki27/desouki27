@@ -27,8 +27,8 @@
 👋 I'm **Mohamed Desouki**, a Computer Science graduate from **AUS** and a passionate builder based in **Dubai**. I bridge the gap between complex engineering and strategic product management.
 
 **🔭 What I'm currently working on:**
-* <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Deloitte.svg" width="18" height="18" style="vertical-align:middle" /> **Deloitte:** Solving complex business problems through code as a Software Engineer.
-* <img src="https://ibb.co/wFBNXk3L" width="18" height="18" style="vertical-align:middle" /> **RateMyEmployer.co:** As Founder & Lead Dev, I am scaling this platform using Next.js and TypeScript. We recently achieved a **100/100 Lighthouse performance score** and drove **110% engagement growth**.
+* <img src="https://www.google.com/s2/favicons?domain=deloitte.com" width="18" height="18" style="vertical-align:middle" /> **Deloitte:** Solving complex business problems through code as a Software Engineer.
+* <img src="https://www.google.com/s2/favicons?domain=ratemyemployer.co" width="18" height="18" style="vertical-align:middle" /> **RateMyEmployer.co:** As Founder & Lead Dev, I am scaling this platform using Next.js and TypeScript. We recently achieved a **100/100 Lighthouse performance score** and drove **110% engagement growth**.
 
 **🏆 Key Achievements:**
 * **Winner:** Monitor Deloitte Challenge (UAE) & Global Finalist.
