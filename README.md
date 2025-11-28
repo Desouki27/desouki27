@@ -28,7 +28,7 @@
 
 **🔭 What I'm currently working on:**
 * <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Deloitte.svg" width="18" height="18" style="vertical-align:middle" /> **Deloitte:** Solving complex business problems through code as a Software Engineer.
-* <img src="[YOUR_STARTUP_LOGO_LINK_HERE](https://ratemyemployer.co/logo.png)" width="18" height="18" style="vertical-align:middle" /> **RateMyEmployer.co:** As Founder & Lead Dev, I am scaling this platform using Next.js and TypeScript. We recently achieved a **100/100 Lighthouse performance score** and drove **110% engagement growth**.
+* <img src="https://ibb.co/wFBNXk3L" width="18" height="18" style="vertical-align:middle" /> **RateMyEmployer.co:** As Founder & Lead Dev, I am scaling this platform using Next.js and TypeScript. We recently achieved a **100/100 Lighthouse performance score** and drove **110% engagement growth**.
 
 **🏆 Key Achievements:**
 * **Winner:** Monitor Deloitte Challenge (UAE) & Global Finalist.
