@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mohamed+Desouki;Software+Engineer+%26+Product+Manager;Building+Scalable+Tech;Based+in+Dubai,+UAE&font=Fira+Code&center=true&width=500&height=50&color=39ff14&vCenter=true&pause=1000" alt="Typing SVG" />
 </a>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9wMng1dW14bm9wMng1dW14bm9wMng1dW14bm9wMng1dW14/L2r5wF8H3rF4/giphy.gif" width="100%" height="20" />
-
 <br/>
 
 <p align="center">
@@ -35,7 +33,6 @@
 **🏆 Key Achievements:**
 * **Winner:** Monitor Deloitte Challenge (UAE) & Global Finalist.
 * **Creator:** RateMyEmployer.co
-
 ---
 
 ### 🛠️ The Stack
@@ -56,11 +53,20 @@
 
 <div align="center">
 
-<a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=desouki27&theme=tokyonight&hide_border=true&fire=EB4C42" alt="streak stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=desouki27&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
 </a>
 
-<br/>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desouki27&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
+</a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/desouki27/desouki27/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/desouki27/desouki27/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/desouki27/desouki27/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
