@@ -54,10 +54,11 @@
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=desouki27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent" alt="stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=desouki27&show_icons=true&theme=dark" alt="stats" />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desouki27&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent" alt="languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desouki27&layout=compact&theme=dark" alt="languages" />
 </a>
 
 <br/><br/>
