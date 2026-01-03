@@ -50,27 +50,6 @@
 ---
 
 ### 📊 Network Traffic & Activity
-
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    align="center"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=desouki27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="stats"
-  />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    align="center"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=desouki27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="languages"
-  />
-</a>
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/desouki27/desouki27/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/desouki27/desouki27/blob/output/github-contribution-grid-snake.svg">
