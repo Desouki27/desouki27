@@ -24,7 +24,7 @@
 
 ### ⚡ About Me
 
-👋 I'm **Mohamed Desouki**, a Computer Science graduate from **AUS** and a passionate builder based in **Dubai**. I bridge the gap between complex engineering and strategic product management.
+👋 I'm **Mohamed Desouki**, a Computer Science graduate from the **American University of Sharjah** and a passionate builder based in **Dubai**. I bridge the gap between complex engineering and strategic product management.
 
 **🔭 What I'm currently working on:**
 * <img src="https://www.google.com/s2/favicons?domain=deloitte.com" width="18" height="18" style="vertical-align:middle" /> **Deloitte:** Solving complex business problems through code as a Software Engineer.
