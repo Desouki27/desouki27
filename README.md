@@ -28,6 +28,7 @@
 
 **🔭 What I'm currently working on:**
 * <img src="https://www.google.com/s2/favicons?domain=deloitte.com" width="18" height="18" style="vertical-align:middle" /> **Deloitte:** Solving complex business problems through code as a Technical Consultant.
+* <img src="https://www.google.com/s2/favicons?domain=bassmah.co" width="18" height="18" style="vertical-align:middle" /> **Bassmah:** Building a mentorship platform that connects ambitious people in the UAE with hand-verified mentors who have lived the path before them.
 * <img src="https://www.google.com/s2/favicons?domain=ratemyemployer.co" width="18" height="18" style="vertical-align:middle" /> **RateMyEmployer.co:** As Founder & Solo Dev, I am scaling this platform using Next.js and TypeScript. We recently achieved a **100/100 Lighthouse performance score** and drove **110% engagement growth**.
 
 **⌛ Past Experience:**
