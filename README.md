@@ -27,9 +27,9 @@
 👋 I'm **Mohamed Desouki**, a Computer Science graduate from the **American University of Sharjah** and a passionate builder based in **Dubai**. I bridge the gap between complex engineering and strategic product management.
 
 **🔭 What I'm currently working on:**
-* <img src="https://www.google.com/s2/favicons?domain=deloitte.com" width="18" height="18" style="vertical-align:middle" /> **Deloitte:** Solving complex business problems through code as a Technical Consultant.
-* <img src="https://www.google.com/s2/favicons?domain=bassmah.co" width="18" height="18" style="vertical-align:middle" /> **Bassmah:** Building a mentorship platform that connects ambitious people in the UAE with hand-verified mentors who have lived the path before them.
-* <img src="https://www.google.com/s2/favicons?domain=ratemyemployer.co" width="18" height="18" style="vertical-align:middle" /> **RateMyEmployer.co:** As Founder & Solo Dev, I am scaling this platform using Next.js and TypeScript. We recently achieved a **100/100 Lighthouse performance score** and drove **110% engagement growth**.
+* <img src="https://www.google.com/s2/favicons?domain=deloitte.com" width="18" height="18" style="vertical-align:middle" /> **[Deloitte](https://www.deloitte.com/middle-east/en.html):** Solving complex business problems through code as a Technical Consultant.
+* <img src="https://www.google.com/s2/favicons?domain=bassmah.co" width="18" height="18" style="vertical-align:middle" /> **[Bassmah](https://www.bassmah.co):** Building a mentorship platform that connects ambitious people in the UAE with hand-verified mentors who have lived the path before them.
+* <img src="https://www.google.com/s2/favicons?domain=ratemyemployer.co" width="18" height="18" style="vertical-align:middle" /> **[RateMyEmployer.co](https://www.ratemyemployer.co):** As Founder & Solo Dev, I am scaling this platform using Next.js and TypeScript. We recently achieved a **100/100 Lighthouse performance score** and drove **110% engagement growth**.
 
 **⌛ Past Experience:**
 * <img src="https://www.google.com/s2/favicons?domain=mag.ae" width="18" height="18" style="vertical-align:middle" /> **MAG:** Turned operational challenges into scalable, data-driven solutions as an Associate Technical Product Manager.
