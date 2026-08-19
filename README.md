@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mohamed+Desouki;Software+Engineer+%26+Product+Manager;Building+Scalable+Tech;Based+in+Dubai,+UAE&font=Fira+Code&center=true&width=500&height=50&color=39ff14&vCenter=true&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mohamed+Desouki;Forward+Deployed+Engineer;Building+Scalable+Tech;Based+in+Dubai,+UAE&font=Fira+Code&center=true&width=500&height=50&color=39ff14&vCenter=true&pause=1000" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,6 +29,10 @@
 **🔭 What I'm currently working on:**
 * <img src="https://www.google.com/s2/favicons?domain=deloitte.com" width="18" height="18" style="vertical-align:middle" /> **Deloitte:** Solving complex business problems through code as a Technical Consultant.
 * <img src="https://www.google.com/s2/favicons?domain=ratemyemployer.co" width="18" height="18" style="vertical-align:middle" /> **RateMyEmployer.co:** As Founder & Solo Dev, I am scaling this platform using Next.js and TypeScript. We recently achieved a **100/100 Lighthouse performance score** and drove **110% engagement growth**.
+
+**⌛ Past Experience:**
+* <img src="https://www.google.com/s2/favicons?domain=mag.ae" width="18" height="18" style="vertical-align:middle" /> **MAG:** Turned operational challenges into scalable, data-driven solutions as an Associate Technical Product Manager.
+* <img src="https://www.google.com/s2/favicons?domain=gargash-group.com" width="18" height="18" style="vertical-align:middle" /> **Gargash Group:** Strengthening enterprise security through vulnerability assessment and incident analysis as a Cyber Security Intern.
 
 **🏆 Key Achievements:**
 * **Winner:** Monitor Deloitte Challenge (UAE) & Global Finalist.
