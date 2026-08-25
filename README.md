@@ -54,13 +54,6 @@
 
 ---
 
-### 🌍 Contribution Skyline
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/desouki27/desouki27/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph" />
-</div>
-
----
 
 ### 📊 Network Traffic & Activity
 
@@ -71,5 +64,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/desouki27/desouki27/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:2F6F8F,45:16232E,100:0D1117&reversal=true" width="100%" alt="" />
