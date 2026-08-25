@@ -21,18 +21,45 @@
 
 **🔭 What I'm currently working on**
 
-| Project | What I'm doing | Status |
-|:--|:--|:--|
-| <img src="https://www.google.com/s2/favicons?domain=deloitte.com" width="16" height="16" /> **[Deloitte](https://www.deloitte.com/middle-east/en.html)** | Solving complex business problems through code as a Technical Consultant | <img src="https://img.shields.io/badge/Live-238636?style=flat-square&labelColor=0D1117" alt="Live" /> |
-| <img src="https://www.google.com/s2/favicons?domain=ratemyemployer.co" width="16" height="16" /> **[RateMyEmployer.co](https://www.ratemyemployer.co)** | Founder & Solo Dev, scaling the platform on Next.js and TypeScript — recently hit a **100/100 Lighthouse performance score** and drove **110% engagement growth** | <img src="https://img.shields.io/badge/Live-238636?style=flat-square&labelColor=0D1117" alt="Live" /> |
-| <img src="https://www.google.com/s2/favicons?domain=bassmah.co" width="16" height="16" /> **[Bassmah](https://www.bassmah.co)** | Building a mentorship platform that connects ambitious people in the UAE with hand-verified mentors | <img src="https://img.shields.io/badge/Building-9E6A03?style=flat-square&labelColor=0D1117" alt="Building" /> |
+<table>
+<tr>
+<th align="left" width="27%">Project</th>
+<th align="left" width="55%">What I'm doing</th>
+<th align="left" width="18%">Status</th>
+</tr>
+<tr>
+<td><img src="https://www.google.com/s2/favicons?domain=deloitte.com" width="16" height="16" />&nbsp;<b><a href="https://www.deloitte.com/middle-east/en.html">Deloitte</a></b></td>
+<td>Solving complex business problems through code as a Technical Consultant</td>
+<td><img src="https://img.shields.io/badge/Live-238636?style=flat-square&labelColor=0D1117" alt="Live" /></td>
+</tr>
+<tr>
+<td><img src="https://www.google.com/s2/favicons?domain=ratemyemployer.co" width="16" height="16" />&nbsp;<b><a href="https://www.ratemyemployer.co">RateMyEmployer.co</a></b></td>
+<td>Founder &amp; Solo Dev, scaling the platform on Next.js and TypeScript, recently hit a <b>100/100 Lighthouse performance score</b> and drove <b>110% engagement growth</b></td>
+<td><img src="https://img.shields.io/badge/Live-238636?style=flat-square&labelColor=0D1117" alt="Live" /></td>
+</tr>
+<tr>
+<td><img src="https://www.google.com/s2/favicons?domain=bassmah.co" width="16" height="16" />&nbsp;<b><a href="https://www.bassmah.co">Bassmah</a></b></td>
+<td>Building a mentorship platform that connects ambitious people in the UAE with hand-verified mentors</td>
+<td><img src="https://img.shields.io/badge/Building-9E6A03?style=flat-square&labelColor=0D1117" alt="Building" /></td>
+</tr>
+</table>
 
 **⌛ Past Experience**
 
-| Company | Role |
-|:--|:--|
-| <img src="https://www.google.com/s2/favicons?domain=mag.ae" width="16" height="16" /> **MAG** | Associate Technical Product Manager — turned operational challenges into scalable, data-driven solutions |
-| <img src="https://www.google.com/s2/favicons?domain=gargash-group.com" width="16" height="16" /> **Gargash Group** | Cyber Security Intern — strengthened enterprise security through vulnerability assessment and incident analysis |
+<table>
+<tr>
+<th align="left" width="27%">Company</th>
+<th align="left" width="73%">Role</th>
+</tr>
+<tr>
+<td><img src="https://www.google.com/s2/favicons?domain=mag.ae" width="16" height="16" />&nbsp;<b>MAG</b></td>
+<td>Associate Technical Product Manager - turned operational challenges into scalable, data-driven solutions</td>
+</tr>
+<tr>
+<td><img src="https://www.google.com/s2/favicons?domain=gargash-group.com" width="16" height="16" />&nbsp;<b>Gargash Group</b></td>
+<td>Cyber Security Intern - strengthened enterprise security through vulnerability assessment and incident analysis</td>
+</tr>
+</table>
 
 **🏆 Key Achievements**
 
