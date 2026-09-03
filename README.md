@@ -102,8 +102,8 @@
 </table>
 
 <div align="center">
-  <a href="https://github.com/Desouki27/branchdock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Desouki27&repo=branchdock&theme=github_dark&hide_border=true&title_color=39FF14&icon_color=39FF14" alt="Branchdock repository card" /></a>
-  <a href="https://github.com/Desouki27/blastradius"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Desouki27&repo=blastradius&theme=github_dark&hide_border=true&title_color=39FF14&icon_color=39FF14" alt="BlastRadius repository card" /></a>
+  <a href="https://github.com/Desouki27/branchdock"><img src="./assets/branchdock-card.svg" width="420" alt="Branchdock repository card" /></a>
+  <a href="https://github.com/Desouki27/blastradius"><img src="./assets/blastradius-card.svg" width="420" alt="BlastRadius repository card" /></a>
 </div>
 
 ---

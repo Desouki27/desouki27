@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="150" viewBox="0 0 420 150" role="img" aria-labelledby="title desc">
+  <title id="title">Branchdock</title>
+  <desc id="desc">A fast, friendly manager for Git worktrees, written in Rust.</desc>
+  <rect x="1" y="1" width="418" height="148" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <circle cx="32" cy="34" r="11" fill="#39ff14" opacity="0.16"/>
+  <path d="M27 34h10M32 29v10" stroke="#39ff14" stroke-width="2" stroke-linecap="round"/>
+  <text x="52" y="41" fill="#58a6ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="20" font-weight="700">Branchdock</text>
+  <text x="24" y="73" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">Fast, friendly Git worktree management with</text>
+  <text x="24" y="94" fill="#c9d1d9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">safe cleanup and native cross-platform binaries.</text>
+  <circle cx="29" cy="124" r="6" fill="#dea584"/>
+  <text x="42" y="129" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">Rust</text>
+  <rect x="90" y="112" width="67" height="23" rx="11.5" fill="#16232e"/>
+  <text x="103" y="128" fill="#39ff14" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="11" font-weight="600">crates.io</text>
+  <text x="385" y="129" text-anchor="end" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12">v0.1.0</text>
+</svg>
