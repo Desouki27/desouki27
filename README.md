@@ -72,11 +72,38 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,rust,html,css&theme=dark" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,fastapi&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres&theme=dark" />
   <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vercel,linux&theme=dark" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<th align="left" width="24%">Project</th>
+<th align="left" width="58%">What it does</th>
+<th align="left" width="18%">Distribution</th>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Desouki27/branchdock">Branchdock</a></b><br/><sub>Rust · Git · CLI</sub></td>
+<td>A fast, friendly manager for creating, switching, inspecting, and safely cleaning up Git worktrees. Ships as a native binary for Linux and macOS across x86_64 and ARM64.</td>
+<td><a href="https://crates.io/crates/branchdock"><img src="https://img.shields.io/crates/v/branchdock?style=flat-square&logo=rust&label=crates.io&labelColor=0D1117&color=CE412B" alt="Branchdock on crates.io" /></a></td>
+</tr>
+<tr>
+<td><b><a href="https://github.com/Desouki27/blastradius">BlastRadius</a></b><br/><sub>TypeScript · AI Security · CLI</sub></td>
+<td>A zero-runtime-dependency security CLI that audits the hooks, skills, instructions, subagents, permissions, and MCP servers trusted by AI coding agents.</td>
+<td><a href="https://www.npmjs.com/package/agent-blastradius"><img src="https://img.shields.io/npm/v/agent-blastradius?style=flat-square&logo=npm&label=npm&labelColor=0D1117&color=CB3837" alt="BlastRadius on npm" /></a></td>
+</tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/Desouki27/branchdock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Desouki27&repo=branchdock&theme=github_dark&hide_border=true&title_color=39FF14&icon_color=39FF14" alt="Branchdock repository card" /></a>
+  <a href="https://github.com/Desouki27/blastradius"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Desouki27&repo=blastradius&theme=github_dark&hide_border=true&title_color=39FF14&icon_color=39FF14" alt="BlastRadius repository card" /></a>
 </div>
 
 ---
