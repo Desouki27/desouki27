@@ -99,11 +99,17 @@
 <td>A zero-runtime-dependency security CLI that audits the hooks, skills, instructions, subagents, permissions, and MCP servers trusted by AI coding agents.</td>
 <td><a href="https://www.npmjs.com/package/agent-blastradius"><img src="https://img.shields.io/npm/v/agent-blastradius?style=flat-square&logo=npm&label=npm&labelColor=0D1117&color=CB3837" alt="BlastRadius on npm" /></a></td>
 </tr>
+<tr>
+<td><b><a href="https://github.com/Desouki27/thought-loom">Thought Loom</a></b><br/><sub>React · Supabase · AI</sub></td>
+<td>An AI-woven personal knowledge graph that discovers relationships, clusters notes into emergent themes, and answers questions with citations to the source ideas.</td>
+<td><a href="https://github.com/Desouki27/thought-loom/releases/tag/v0.1.0"><img src="https://img.shields.io/github/v/release/Desouki27/thought-loom?style=flat-square&logo=github&label=release&labelColor=0D1117&color=7C3AED" alt="Thought Loom release" /></a></td>
+</tr>
 </table>
 
 <div align="center">
   <a href="https://github.com/Desouki27/branchdock"><img src="./assets/branchdock-card.svg" width="420" alt="Branchdock repository card" /></a>
   <a href="https://github.com/Desouki27/blastradius"><img src="./assets/blastradius-card.svg" width="420" alt="BlastRadius repository card" /></a>
+  <a href="https://github.com/Desouki27/thought-loom"><img src="./assets/thought-loom-card.svg" width="420" alt="Thought Loom repository card" /></a>
 </div>
 
 ---
