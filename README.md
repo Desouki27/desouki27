@@ -17,7 +17,7 @@
 
 ### ⚡ About Me
 
-👋 I'm **Mohamed Desouki**, a Computer Science graduate from the **American University of Sharjah** and a passionate builder based in **Dubai**. I bridge the gap between complex engineering and strategic product management.
+👋 I'm **Mohamed Desouki**, a passionate builder based in **Dubai**. I bridge the gap between complex engineering and strategic product management.
 
 **🔭 What I'm currently working on**
 
